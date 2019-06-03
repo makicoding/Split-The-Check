@@ -10,6 +10,7 @@ Technologies used in deployed prototype: HTML, CSS, JavaScript, jQuery, Bootstra
 Prototype is responsive and designed for a mobile screen. 
 
 ***
+### Overview
 A mobile app that improves the experience of splitting a check at a restaurant between a group of people. 
 <br></br>
 
